@@ -1,0 +1,28 @@
+{
+    "lessons": [
+        {
+            "title": "Title 1",
+            "description": "Description 1",
+            "price": 1000,
+            "date": "2012-03-19T07:22Z"
+        },
+        {
+            "title": "Title 2",
+            "description": "Description 22222",
+            "price": 1000,
+            "date": "2012-03-19T07:22Z"
+        },
+        {
+            "title": "Title 3",
+            "description": "Description 33333",
+            "price": 1000,
+            "date": "2012-03-19T07:22Z"
+        },
+        {
+            "title": "Title 4",
+            "description": "Description 44444",
+            "price": 1000,
+            "date": "2012-03-19T07:22Z"
+        }
+    ]
+}
